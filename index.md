@@ -24,3 +24,10 @@ Hello! I am a student learning data science. Welcome to my portfolio.
 *The boxplot reveals that roadside stations (like Causeway Bay and Central) have higher median AQHI levels.*
 
 [Link to the Project Repository](https://github.com/XUYITING1/data-science-project)
+
+
+### Limitations & Future Work
+*Based on peer feedback, I realized it is important to state the limitations clearly on the portfolio page.*
+- The analysis currently only covers one month (January 2026).
+- Weather conditions were not included in this model.
+- Future work will include automating the pipeline to fetch multi-year data.
