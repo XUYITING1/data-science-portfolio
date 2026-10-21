@@ -20,8 +20,9 @@ Hello! I am a student learning data science. Welcome to my portfolio.
 
 ![Station Boxplot](https://raw.githubusercontent.com/XUYITING1/data-science-project/main/fig1_station_boxplot.png)
 
-*The horizontal boxplot compares the AQHI distribution across 18 different monitoring stations. It clearly demonstrates that urban and roadside stations—such as Mong Kok, Central, and Causeway Bay—have notably higher median AQHI levels compared to other districts. Furthermore, these stations exhibit several extreme outlier values (reaching up to 10), indicating that residents in busy commercial areas are consistently exposed to higher health risks than those in general areas.*
-[Link to the Project Repository](https://github.com/XUYITING1/data-science-project)
+*The horizontal boxplot compares the AQHI distribution across 18 different monitoring stations. It clearly demonstrates that urban and roadside stations—such as Mong Kok, Central, and Causeway Bay—have notably higher median AQHI levels compared to other districts. Furthermore, these stations exhibit several extreme outlier values (reaching up to 10), indicating that residents in busy commercial areas are consistently exposed to higher health risks than those in general areas.
+
+*[Link to the Project Repository](https://github.com/XUYITING1/data-science-project)
 
 
 ### Limitations & Future Work
