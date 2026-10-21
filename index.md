@@ -16,13 +16,11 @@ Hello! I am a student learning data science. Welcome to my portfolio.
 **Visualization & Findings:**
 ![Daily Trend](https://raw.githubusercontent.com/XUYITING1/data-science-project/main/fig2_daily_trend.png)
 
-*The chart shows the daily mean AQHI across all stations in January 2026. There are noticeable pollution peaks in mid-January and late January.*
-
+*The time-series chart illustrates the daily mean AQHI across all monitoring stations in January 2026. The data reveals a clear pattern of fluctuations, with a prominent peak reaching nearly 6.0 around January 13th. A secondary period of elevated pollution is visible in late January. Notably, the air quality significantly improved during the last few days of the month, dropping to the lowest levels (below 3.0).*
 
 ![Station Boxplot](https://raw.githubusercontent.com/XUYITING1/data-science-project/main/fig1_station_boxplot.png)
 
-*The boxplot reveals that roadside stations (like Causeway Bay and Central) have higher median AQHI levels.*
-
+*The horizontal boxplot compares the AQHI distribution across 18 different monitoring stations. It clearly demonstrates that urban and roadside stations—such as Mong Kok, Central, and Causeway Bay—have notably higher median AQHI levels compared to other districts. Furthermore, these stations exhibit several extreme outlier values (reaching up to 10), indicating that residents in busy commercial areas are consistently exposed to higher health risks than those in general areas.*
 [Link to the Project Repository](https://github.com/XUYITING1/data-science-project)
 
 
