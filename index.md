@@ -18,4 +18,9 @@ Hello! I am a student learning data science. Welcome to my portfolio.
 
 *The chart shows the daily mean AQHI across all stations in January 2026. There are noticeable pollution peaks in mid-January and late January.*
 
+
+![Station Boxplot](https://raw.githubusercontent.com/XUYITING1/data-science-project/main/fig1_station_boxplot.png)
+
+*The boxplot reveals that roadside stations (like Causeway Bay and Central) have higher median AQHI levels.*
+
 [Link to the Project Repository](https://github.com/XUYITING1/data-science-project)
